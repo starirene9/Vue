@@ -119,7 +119,7 @@ button {
   position: fixed; padding: 20px;
 }
 .white-bg {
-  width: 100%; background: white;
+  width: 100%; background: pink;
   border-radius: 8px;
   padding: 20px;
 } 
